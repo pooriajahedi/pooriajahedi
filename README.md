@@ -1,16 +1,18 @@
-### Hi there 👋
+# Pooria Jahedi - Full Stack WEB Developer
 
-<!--
-**pooriajahedi/pooriajahedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Web Developer with a passion for learning new languages and problem solving techniques.
+I have experience of more than 6+ years with specializing in Web-Development & Designing with:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Back-End
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,wordpress,laravel)](https://skillicons.dev)
+
+### Front-End
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,jquery,vuejs)](https://skillicons.dev)
+
+### Other Techinical Skills
+
+[![My Skills](https://skillicons.dev/icons?i=bots,linux,git,gitlab,docker)](https://skillicons.dev)
+
+
+![](https://i.imgur.com/waxVImv.png)
